@@ -4,4 +4,10 @@ add 2 by rep_1
 add 3 by rep_1
 add 4 by rep_1
 add 5 by rep_1
+<<<<<<< HEAD
 add 5 by rep_1 brancha
+=======
+add 6 by rep
+add 7 by rep
+add 8 by rep
+>>>>>>> 61ff4a373a0c2903b5c81014c55b80cbf9c72ff7
